@@ -1,6 +1,6 @@
 # Цифровое строительство
 
-**В рамках хакатона были созданы три проекта:**
+**В рамках хакатона были созданы 4 проекта:**
 
 Backend:
 [https://github.com/akharin/leaders-hackathon-backend](https://github.com/akharin/leaders-hackathon-backend)
