@@ -8,8 +8,11 @@ Backend:
 Web-клиент для мониторинга:
 [https://github.com/akharin/leaders-hackathon-web-app](https://github.com/akharin/leaders-hackathon-web-app)
 
-Приложение для авторизации и отправки местоположений с мобильного:
+Мобильное веб-приложение для авторизации и отправки местоположений:
 [https://github.com/akharin/leaders-hackathon-mobile-web-app](https://github.com/akharin/leaders-hackathon-mobile-web-app)
+
+Мобильное нативное приложение:
+[https://github.com/akharin/leaders-hackathon-mobile-app](https://github.com/akharin/leaders-hackathon-mobile-app)
 
 **Онлайн демо доступно по ссылкам:**
 
